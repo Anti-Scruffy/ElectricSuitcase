@@ -1,2 +1,2 @@
 # ElectricSuitcase
-Wait for announcement
+Wait for the announcement
